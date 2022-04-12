@@ -90,8 +90,13 @@ ul {
 	background-size: cover;
 	overflow: hidden;
 	/*display: flex;*/
-	min-width: 200px;
+	position: relative;
+	right: 5rem;
+	top: 5rem;
+	min-width: 200px;	
 	width: 540px;
+	height: 484px;
+
 }
 
 .corImagem {
