@@ -1,3 +1,6 @@
+Hey guys. This is my second challenge and I complete just the desktop layout. I have some issues with positions and I have need of study more positions with CSS.  
+
+
 # Frontend Mentor - Stats preview card component
 
 ![Design preview for the Stats preview card component coding challenge](./design/desktop-preview.jpg)
